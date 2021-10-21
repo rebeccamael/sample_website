@@ -1,0 +1,9 @@
+p {
+    font-family: 'Amiri', serif;
+    color:royalblue;
+    width: 600px;
+    border: 2px dashed lightblue};
+    
+div:hover {filter: invert(100%);}
+div {background-image: url(images/archway.jpeg);}
+background: no-repeat center/80% url("images/archway.jpeg")}
